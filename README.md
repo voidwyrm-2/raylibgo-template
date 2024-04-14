@@ -1,2 +1,2 @@
 # raylibgo-template
- A raylib-go template
+A raylib-go template

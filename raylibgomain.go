@@ -15,7 +15,7 @@ func main() {
 		rl.BeginDrawing()
 
 		rl.ClearBackground(rl.Black)
-		rl.DrawText("Creeper, oh man", 150, 200, 20, rl.White)
+		rl.DrawText("Creeper, oh man", 316, 200, 20, rl.White)
 
 		rl.EndDrawing()
 	}
